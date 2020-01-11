@@ -1,0 +1,6 @@
+[submodule "messenger-spring-boot"]
+	path = messenger-spring-boot
+	url = https://github.com/nitinkc/messenger-spring-boot.git
+[submodule "messages-app-angular8"]
+	path = messages-app-angular8
+	url = https://github.com/nitinkc/messages-app-angular8.git
